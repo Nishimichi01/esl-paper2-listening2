@@ -1,0 +1,17 @@
+# Not for indexing.
+#
+# This site is a teaching aid for one school's Year 10 workshop. It reproduces
+# questions, artwork and audio from a Cambridge IGCSE past paper, which the
+# syllabus permits centres to copy for INTERNAL use. It is shared with students
+# by direct link and must not appear in search results or archives.
+User-agent: *
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
